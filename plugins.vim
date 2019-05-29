@@ -19,6 +19,7 @@ Plugin 'mbbill/undotree'
 Plugin 'google/yapf'
 Plugin 'drmingdrmer/vim-toggle-quickfix'
 Plugin 'vim-syntastic/syntastic'
-
+Plugin 'tpope/vim-surround'
+Plugin 'kien/ctrlp.vim'
 
 call vundle#end()
